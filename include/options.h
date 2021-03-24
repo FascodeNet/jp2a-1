@@ -4,7 +4,8 @@
  */
 
 #ifndef INC_JP2A_OPTIONS_H
-
+#define PACKAGE_STRING "1.0.8"
+#define PACKAGE_BUGREPORT ""
 // see options.c
 extern int verbose;
 extern int auto_height;
